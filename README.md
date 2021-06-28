@@ -1,3 +1,5 @@
-# raspberry pi Atren app
+# Raspberry pi Atren app
 
-plataforma de seguimiento vehicular
+Plataforma de seguimiento vehicular
+
+Si deseas contribuir con el proyecto, escribe al siguiente correo: carnn0618@gmail.com
